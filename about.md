@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Alan Marin, Computer Science Student and future Software Developer/Entrepreneur. Feel Free to contact me through my email at any time.
+Hello my name is Alan Marin I am currently a computer science student in Southern California. I do iOS/Android App development. any questions? alanmarin1996@gmail.com 
 
 ### Contact me
 
